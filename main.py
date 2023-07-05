@@ -3,7 +3,7 @@ import datetime
 APP_ID = ""
 API_KEY = ""
 NUT_EP = "https://trackapi.nutritionix.com/v2/natural/exercise"
-SHEETY_EP = "https://api.sheety.co/54d0ffc33d4058b853cf0d35d8917a89/workoutTracker/workouts"
+SHEETY_EP = "https://api.sheety.co/WOTNOW/workoutTracker/workouts"
 SHEETY_TOKEN = "Bearer "
 SHEETY_ROOT = SHEETY_EP.split("/")[-1]
 
